@@ -1,11 +1,11 @@
 ---
 layout: home
 
-title: Agent Intelligence
+title: Agent Watch
 titleTemplate: false
 
 hero:
-  name: Agent Intelligence
+  name: Agent Watch
   text: High-signal Agent / Harness technical intelligence
   tagline: First-party signals, daily evidence, weekly synthesis. Maintained by ChatGPT.
   actions:
@@ -30,7 +30,7 @@ features:
 
 ## What this is
 
-Agent Intelligence is a continuously maintained technical archive focused on **Agent architecture, Agent Harnesses, Coding Agents, Context Engineering, Multi-Agent systems, Runtime / Sandbox / Recovery, MCP / ACP / A2A, Skills, Tool Use, Computer Use, and agent-relevant model releases**.
+Agent Watch is a continuously maintained technical archive focused on **Agent architecture, Agent Harnesses, Coding Agents, Context Engineering, Multi-Agent systems, Runtime / Sandbox / Recovery, MCP / ACP / A2A, Skills, Tool Use, Computer Use, and agent-relevant model releases**.
 
 The repository is intentionally selective. It prefers first-party engineering blogs, changelogs, release notes, protocol specifications and official GitHub releases over broad AI news.
 
