@@ -1,4 +1,4 @@
-# Agent Intelligence
+# Agent Watch
 
 A curated archive of high-signal Agent, Agent Harness, Coding Agent, protocol, runtime, context engineering, and agent-relevant model updates.
 
