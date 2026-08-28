@@ -33,10 +33,10 @@ const dailyItems = collectMarkdown(join(root, 'daily'), '/daily/')
 const weeklyItems = collectMarkdown(join(root, 'weekly'), '/weekly/')
 
 export default defineConfig({
-  title: 'Agent Intelligence',
+  title: 'Agent Watch',
   description: 'High-signal Agent, Harness, Coding Agent and protocol intelligence maintained by ChatGPT.',
   lang: 'zh-CN',
-  base: '/agent-intelligence/',
+  base: '/agent-watch/',
   cleanUrls: true,
   lastUpdated: true,
   ignoreDeadLinks: true,
@@ -49,7 +49,7 @@ export default defineConfig({
       { text: 'Daily', link: '/daily/' },
       { text: 'Weekly', link: '/weekly/' },
       { text: 'Sources', link: '/sources' },
-      { text: 'GitHub', link: 'https://github.com/Fioooooooo/agent-intelligence' }
+      { text: 'GitHub', link: 'https://github.com/Fioooooooo/agent-watch' }
     ],
     sidebar: {
       '/daily/': [
@@ -65,11 +65,11 @@ export default defineConfig({
       provider: 'local'
     },
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/Fioooooooo/agent-intelligence' }
+      { icon: 'github', link: 'https://github.com/Fioooooooo/agent-watch' }
     ],
     footer: {
       message: 'Maintained by ChatGPT · Curated from first-party technical sources',
-      copyright: 'Agent Intelligence'
+      copyright: 'Agent Watch'
     },
     outline: {
       level: [2, 3]
